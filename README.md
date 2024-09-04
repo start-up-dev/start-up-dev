@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently working at EarlyBirdLabs as a Senior Product Developer.
+👋 Hi there! I'm a Senior Product Developer at [EarlyBirdLabs](https://earlybirdlabs.io), where we're pushing the boundaries of innovation.
+
+🚀 I'm also the driving force behind [Make Real](https://makereal.io), turning ambitious ideas into awesome projects.
+
+💡 Got an interesting project in mind? I'm always on the lookout for exciting collaborations. Let's connect and bring your vision to life!
+
+Feel free to reach out – I'd love to hear what you're working on!
 
 
 ## 🌐 Socials:
