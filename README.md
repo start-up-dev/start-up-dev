@@ -11,8 +11,4 @@ I am currently working at EarlyBirdLabs as a Senior Product Developer.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=start-up-dev&theme=dark&hide_border=false)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=start-up-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=start-up-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
