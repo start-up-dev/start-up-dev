@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I'm a Senior Product Developer at [EarlyBirdLabs](https://earlybirdlabs.io), where we're pushing the boundaries of innovation.
+# 👋 Hi there!
+I'm a Senior Product Developer at [EarlyBirdLabs](https://earlybirdlabs.io), where we're pushing the boundaries of innovation.
 
 🚀 I'm also the driving force behind [Make Real](https://makereal.io), turning ambitious ideas into awesome projects.
 
